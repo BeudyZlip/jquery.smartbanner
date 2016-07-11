@@ -1,5 +1,6 @@
 {
   "name": "jquery.smartbanner-inject",
+  "version": "1.0.1",
   "main": [
     "jquery.smartbanner.js",
     "jquery.smartbanner.css"
