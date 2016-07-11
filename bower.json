@@ -2,7 +2,7 @@
   "name": "jquery.smartbanner-inject",
   "main": [
     "jquery.smartbanner.js",
-    "jquery.smartbanner.css",
+    "jquery.smartbanner.css"
   ],
   "homepage": "https://github.com/BeudyZlip/jquery.smartbanner",
   "authors": [

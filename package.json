@@ -1,0 +1,22 @@
+{
+  "name": "jquery.smartbanner-inject",
+  "version": "1.0.0",
+  "description": "jQuery Smart Banner ===================",
+  "main": [
+    "jquery.smartbanner.js",
+    "jquery.smartbanner.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://BeudyZlip@github.com/BeudyZlip/jquery.smartbanner.git"
+  },
+  "author": "Kevin MARTIN <kevinmartin83@gmail.com> (http://studio104.fr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeudyZlip/jquery.smartbanner/issues"
+  },
+  "homepage": "https://github.com/BeudyZlip/jquery.smartbanner#readme"
+}
